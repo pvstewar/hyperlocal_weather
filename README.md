@@ -1,2 +1,2 @@
 # hyperlocal_weather
-Collection of hyperlocal weather sources
+This repo is intended to explore sources for hyperlocal weather.
